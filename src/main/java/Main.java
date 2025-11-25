@@ -15,7 +15,7 @@ public class Main {
         EnvironmentalSystem es = new EnvironmentalSystem();
 
         JFrame frame = new JFrame();
-        frame.setSize(800, 600);
+        frame.setSize(1000, 600);
         frame.setTitle("Envriornmental Status");
 
         MainPanel mainPanel;
